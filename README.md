@@ -1,16 +1,17 @@
-## Hi there 👋
+#  Hi, I'm Debkanta Mishra
 
-<!--
-**Debkantamishra03/Debkantamishra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning **Data Analysis and Machine Learning** using Python.  
+I enjoy turning data into insights and have done a few projects like:
 
-Here are some ideas to get you started:
+-  Airline Passenger Satisfaction  
+-  Titanic Survival Analysis  
+-  Customer Churn Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills:
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+
+###  My Goal:
+Keep improving with more real-world data projects and learn AI/ML step by step.
+
+ Connect with me on [LinkedIn]()
+
