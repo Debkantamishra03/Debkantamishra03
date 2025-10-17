@@ -13,6 +13,7 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 ###  My Goal:
 Keep improving with more real-world data projects and learn AI/ML step by step.
 
- Connect with me on [LinkedIn](www.linkedin.com/in/debkanta-mishra)
-                    [Email] (debkanta.mishra3@gmail.com)
+ Connect with me on [LinkedIn(https://www.linkedin.com/in/debkanta-mishra)
+                    [Email](debkanta.mishra3@gmail.com)
 
+---
