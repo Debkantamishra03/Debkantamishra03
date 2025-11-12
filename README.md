@@ -1,18 +1,18 @@
 #  Hi, I'm Debkanta Mishra
 
-I’m learning **Data Analysis and Machine Learning** using Python.  
+Aspiring AI/ML Leader | Python & Machine Learning | Open to Opportunities 
 I enjoy turning data into insights and have done a few projects like:
 
+-  Customer Churn Analysis 
 -  Airline Passenger Satisfaction  
 -  Titanic Survival Analysis  
--  Customer Churn Analysis  
+ 
 
 ###  Skills:
-Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+Excel | SQL | Power Bi | Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn 
 
 ###  My Goal:
-Keep improving with more real-world data projects and learn AI/ML step by step.
-
+I am eager to expand my expertise into AI/ML and contribute to real-world, data-driven solutions.
 
 ---
 
