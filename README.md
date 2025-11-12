@@ -1,6 +1,8 @@
 #  Hi, I'm Debkanta Mishra
 
 Aspiring AI/ML Leader | Python & Machine Learning | Open to Opportunities 
+---
+
 I enjoy turning data into insights and have done a few projects like:
 
 -  Customer Churn Analysis 
