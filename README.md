@@ -1,6 +1,5 @@
 #  Hi, I'm Debkanta Mishra
-
-Aspiring Data Analyst | Python, SQL, & Tableau | Open to Opportunities
+# Aspiring Data Analyst | Python, SQL, & Tableau | Open to Opportunities
 
 ---
 
