@@ -7,10 +7,10 @@ Hello,
  I'm an aspiring Data Analyst passionate about turning raw data into clear, actionable insights.
  I have hands-on experience with the full data analysis workflow:
 
- Cleaning and manipulating data with **Python (Pandas & NumPy)**
- Querying and extracting data using **SQL**
- Creating interactive dashboards and reports with **Tableau**
- Visualizing findings with **Matplotlib & Seaborn** 
+ - Cleaning and manipulating data with **Python (Pandas & NumPy)**
+ * Querying and extracting data using **SQL**
+ + Creating interactive dashboards and reports with **Tableau**
+ - Visualizing findings with **Matplotlib & Seaborn** 
  
 
 
